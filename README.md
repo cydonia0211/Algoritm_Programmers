@@ -6,7 +6,7 @@
 </head>
 
 <body>
-  <h3>Algorithm</h3>
+  <h3>Algorithm List</h3>
   <ul>
     <li>Hashad Number</li>
     <li>x개의 수</li>
