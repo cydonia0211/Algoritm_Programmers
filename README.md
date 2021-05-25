@@ -10,5 +10,6 @@
   <ul>
     <li>Hashad Number</li>
     <li>x개의 수</li>
+    <li>n개의 정수</li>
   </ul>
 </body>
