@@ -1,4 +1,4 @@
-# Algorithm_Programmers
+# Algorithm_List
 <html>
 <head>
   <meta charset = "utf-8">
@@ -6,10 +6,14 @@
 </head>
 
 <body>
-  <h3>Algorithm List</h3>
+  <h2>Programmers</h2>
+  
+  <h3>Level 1</h3>
   <ul>
     <li>Hashad Number</li>
     <li>x개의 수</li>
     <li>n개의 정수</li>
   </ul>
+  
+  <h3>Level 2</h3>
 </body>
